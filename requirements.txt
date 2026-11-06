@@ -1,0 +1,5 @@
+Django>=6.0
+djangorestframework
+python_decouple
+psycopg2-binary
+openai
